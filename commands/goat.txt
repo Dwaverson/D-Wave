@@ -1,0 +1,1 @@
+!commands edit !goat $(urlfetch https://betting-on-stabbs.com/dwave/goat_facts.php)

@@ -1,0 +1,1 @@
+!commands add !ban -ul=moderator Your lucky that was an exclamation point.  You have been warned $(touser)

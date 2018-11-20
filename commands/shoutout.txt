@@ -1,0 +1,4 @@
+!commands edit !shoutout -ul=moderator $(eval
+  const q = decodeURIComponent(`$(querystring)`), name = (q !== '' && q[0] === '@') ? q.substr(1) : q;
+  `Check out my boi ${name}. Give them your loves and a follow at https://twitch.tv/${name} .  They last played `
+) $(twitch $(eval const q = decodeURIComponent(`$(querystring)`), name = (q !== '' && q[0] === '@') ? q.substr(1) : q; `${name}`) "{{game}}")

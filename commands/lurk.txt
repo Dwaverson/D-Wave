@@ -1,0 +1,13 @@
+!commands edit !lurk $(eval
+  const responses = [
+    'Suddenly Dwaverson notices footsteps in the distance.',
+    "HEY! WTF you doin' in my bushes?",
+    "Ok, I guess if you want to just star at me that's fine (Awkward)",
+    'Reading the postings on an Internet message board or in a chat room without making any contribution oneself.',
+    'Finally, I thought he would never shutup',
+    "YOU CAN RUN, BUT YOU CAN'T HIDE, B*TCH",
+    "I'm not funny. So I lurk.",
+    'Yet Another Funny Lurk Message (YAFLM)'
+  ];
+  responses[Math.floor(Math.random() * responses.length)];
+)
